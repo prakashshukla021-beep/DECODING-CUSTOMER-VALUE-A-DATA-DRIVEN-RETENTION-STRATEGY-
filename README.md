@@ -1,6 +1,6 @@
 Summer Analytics 2026 - Consulting and Analytics Club, IIT Guwahati
-by Prakash Shukla and Abhishek Meena
 ---
+By Prakash Shukla and Abhishek Meena
 Project Overview:
 
 The company has customer transaction data but lacks actionable insights into customer behavior. Using Python, SQL, and Power BI, this project transforms raw data into meaningful business intelligence by answering questions such as:
