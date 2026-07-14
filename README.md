@@ -2,7 +2,6 @@ Summer Analytics 2026 - Consulting and Analytics Club, IIT Guwahati
 ---
 By Prakash Shukla and Abhishek Meena
 
-
 Project Overview:
 ---
 
